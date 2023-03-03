@@ -8,7 +8,7 @@
 
 ## Descripción 📑
 
-El objetivo de esta práctica es aplicar todos los conocimientos dados de CSS para crear una web estática.
+El objetivo de esta práctica es generar 3 círculos y cuadrados intercalados usando sólo 2 div, after y before.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
